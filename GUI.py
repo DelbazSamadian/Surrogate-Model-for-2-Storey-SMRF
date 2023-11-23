@@ -2,7 +2,8 @@
 """
 Created on Sun Nov 19 14:25:09 2023
 
-@author: User
+@author: Delbaz Samadian
+PhD Student at Teesside University, Email:D.Samadian@tees.ac.uk
 """
 import tkinter as tk
 from tkinter import ttk
